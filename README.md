@@ -1,3 +1,3 @@
 # Digit_recognizer
-Source code
+Source code and
 sample video of the project is available
